@@ -21,7 +21,7 @@ Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate r
 
 ## 🚀 Redes Sociais e Projetos
 
-[![YouTube](https://img.shields.io/badge/YouTube-Nicks-red?logo=youtube&logoColor=white)](https://youtube.com/SEUCANAL)
+[![YouTube](https://img.shields.io/badge/YouTube-Nicks-red?logo=youtube&logoColor=white)](https://youtube.com/nicks_delete)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Nicks-red?logo=itch.io&logoColor=white)](https://itch.io/profile/SEUPROFILE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicks-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)
 
