@@ -1,53 +1,56 @@
-<h1 align="center">Hey, eu sou o Nicks 👾</h1>
+<h1 align="center">Nicks 🎮</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+de+Jogos;Pixel+Art+Lover;Criador+do+Runas+%26+Fendas;Apaixonado+por+Lore+Distópica&center=true&width=500&height=50">
+  Desenvolvedor de Jogos • Pixel Artist • Criador de Runas & Fendas
 </p>
 
 ---
 
-## 📚 Sobre mim
+## 🎮 Sobre mim
 
-🎮 Desenvolvedor de jogos com foco em:
+Meu nome é Nicks, sou desenvolvedor de jogos com foco em narrativas distópicas, mecânicas inovadoras e sistemas profundos de runas.  
+Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate em tempo real inspirado em Clair Obscur: Expedition 33.
 
-- Combate em tempo real e por turnos
-- Sistemas de runas evolutivas
-- Narrativas distópicas e finais alternativos
-- Pixel Art e Level Design
+---
 
-🛠️ Ferramentas que uso:
+## 🚀 Redes Sociais e Projetos
 
-![GameMaker](https://img.shields.io/badge/GameMaker-2023.x-blue)
-![Aseprite](https://img.shields.io/badge/Aseprite-Pixel%20Art-orange)
-![Git](https://img.shields.io/badge/Git-Version%20Control-lightgrey)
+[![YouTube](https://img.shields.io/badge/YouTube-Nicks-red?logo=youtube&logoColor=white)](https://youtube.com/SEUCANAL)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Nicks-red?logo=itch.io&logoColor=white)](https://itch.io/profile/SEUPROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicks-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<p align="center">
+<img src="https://img.shields.io/badge/GameMaker-2023.x-blue?logo=gamemakerstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Aseprite-Pixel%20Art-orange?logo=aseprite&logoColor=white">
+<img src="https://img.shields.io/badge/Git-Version%20Control-lightgrey?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-UI%20Design-red?logo=figma&logoColor=white">
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicksx-del&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksx-del&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## ✨ Tecnologias em Uso
 
-- [Runas & Fendas](https://github.com/SEUUSERNAME/runas-fendas) — RPG inspirado em EX33 com runas e fendas dimensionais.
-- [Ferramenta de Runas](https://github.com/SEUUSERNAME/editor-runas) — Editor interno para evolução de runas no jogo.
-
----
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicks-blue)](https://linkedin.com/in/SEULINKEDIN)
-[![YouTube](https://img.shields.io/badge/YouTube-Nicks-red)](https://youtube.com/SEUCANAL)
-
----
+```txt
+GameMaker ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 90%
+Aseprite ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 70%
+Git      ▓▓▓▓▓▓▓▓▓▓▓▓▓ 60%
+Figma    ▓▓▓▓▓▓▓▓▓▓ 50%
 
 
 <!--
