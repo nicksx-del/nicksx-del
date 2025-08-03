@@ -1,15 +1,21 @@
 <h1 align="center">Nicks 🎮</h1>
 
 <p align="center">
-  Desenvolvedor de Jogos • Pixel Artist • Criador de Runas & Fendas
+  Desenvolvedor de Jogos • Criador de Runas & Fendas • Amante de Combate em Tempo Real
 </p>
 
 ---
 
 ## 🎮 Sobre mim
 
-Meu nome é Nicks, sou desenvolvedor de jogos com foco em narrativas distópicas, mecânicas inovadoras e sistemas profundos de runas.  
-Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate em tempo real inspirado em Clair Obscur: Expedition 33.
+Meu nome é Nicks, sou desenvolvedor de jogos com foco em:
+
+- Combate baseado em tempo e reflexos
+- Sistemas profundos de runas evolutivas
+- Narrativas distópicas e finais alternativos
+- Desenvolvimento de jogos com **GameMaker**, **TypeScript** e **Python** para ferramentas de apoio
+
+Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate reflexivo e múltiplos finais.
 
 ---
 
@@ -23,10 +29,10 @@ Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate e
 
 ## 🛠️ Linguagens e Tecnologias
 
+<p align="center">
 <img src="https://img.shields.io/badge/GameMaker-2023.x-blue?logo=gamemakerstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Aseprite-Pixel%20Art-orange?logo=aseprite&logoColor=white">
-<img src="https://img.shields.io/badge/Git-Version%20Control-lightgrey?logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-UI%20Design-red?logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white">
 </p>
 
 ---
@@ -42,7 +48,3 @@ Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate e
 </p>
 
 ---
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
