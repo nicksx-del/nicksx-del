@@ -23,7 +23,6 @@ Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate e
 
 ## 🛠️ Linguagens e Tecnologias
 
-<p align="center">
 <img src="https://img.shields.io/badge/GameMaker-2023.x-blue?logo=gamemakerstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Aseprite-Pixel%20Art-orange?logo=aseprite&logoColor=white">
 <img src="https://img.shields.io/badge/Git-Version%20Control-lightgrey?logo=git&logoColor=white">
