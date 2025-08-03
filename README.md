@@ -1,29 +1,21 @@
 <h1 align="center">Nicks 🎮</h1>
 
 <p align="center">
-  Desenvolvedor de Jogos • Criador de Runas & Fendas • Amante de Combate em Tempo Real
+  Desenvolvedor de Jogos • Criador de Mundos e Histórias • Autor de Runas & Fendas
 </p>
 
 ---
 
-## 🎮 Sobre mim
+## 🎮 Sobre Mim
 
-Meu nome é Nicks, sou desenvolvedor de jogos com foco em:
+Meu nome é Nicks, sou desenvolvedor de jogos apaixonado por criar meus próprios mundos, sistemas e histórias.
 
-- Combate baseado em tempo e reflexos
-- Sistemas profundos de runas evolutivas
-- Narrativas distópicas e finais alternativos
-- Desenvolvimento de jogos com **GameMaker**, **TypeScript** e **Python** para ferramentas de apoio
+Desde pequeno, sempre gostei de construir experiências únicas, seja criando sites, jogos ou qualquer projeto que permitisse expressar minha criatividade. Meu objetivo é criar jogos com histórias elaboradas e fortes, que emocionem as pessoas e ofereçam desafios verdadeiros para os jogadores.
 
-Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate reflexivo e múltiplos finais.
+Atualmente, estou desenvolvendo **Runas & Fendas**, um RPG tático com combate reflexivo e sistema de runas, inspirado em narrativas distópicas e mecânicas profundas.  
+Além do desenvolvimento, também escrevo histórias e lores complexas, trabalho com pixel art e sempre busco formas de tornar cada jogo uma experiência memorável.
 
----
-
-## 🚀 Redes Sociais e Projetos
-
-[![YouTube](https://img.shields.io/badge/YouTube-Nicks-red?logo=youtube&logoColor=white)](https://youtube.com/nicks_delete)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Nicks-red?logo=itch.io&logoColor=white)](https://itch.io/profile/SEUPROFILE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicks-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEULINKEDIN)
+Meus jogos são pensados especialmente para jogadores que buscam **desafios intensos e histórias impactantes**.
 
 ---
 
@@ -31,9 +23,22 @@ Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate r
 
 <p align="center">
 <img src="https://img.shields.io/badge/GameMaker-2023.x-blue?logo=gamemakerstudio&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&logoColor=white">
 </p>
+
+---
+
+## 🚀 Redes Sociais
+
+[![YouTube](https://img.shields.io/badge/YouTube-nicks_delete-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nicks_delete)  
+[![X (Twitter)](https://img.shields.io/badge/X-nicksx--del-black?logo=x&logoColor=white)](https://twitter.com/nicksx-del)
+
+---
+
+## 📌 Projetos em Destaque
+
+- [Runas & Fendas](https://github.com/nicksx-del/runas-fendas) — RPG tático com runas evolutivas, combate reflexivo e narrativa distópica.
 
 ---
 
@@ -48,3 +53,7 @@ Atualmente estou criando o jogo **Runas & Fendas**, um RPG tático com combate r
 </p>
 
 ---
+
+<p align="center">
+Obrigado por visitar meu perfil! ⚔️
+</p>
