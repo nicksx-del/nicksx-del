@@ -1,7 +1,7 @@
 <h1 align="center">Nicks 🎮</h1>
 
 <p align="center">
-  Desenvolvedor de Jogos • Criador de Mundos e Histórias • Autor de Runas & Fendas
+  Desenvolvedor • Criador de Sites e Jogos • 
 </p>
 
 ---
