@@ -25,6 +25,7 @@ Meus jogos são pensados especialmente para jogadores que buscam **desafios inte
 <img src="https://img.shields.io/badge/GameMaker-2023.x-blue?logo=gamemakerstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-ES6-informational?logo=javascript&logoColor=white">
 </p>
 
 ---
@@ -53,7 +54,3 @@ Meus jogos são pensados especialmente para jogadores que buscam **desafios inte
 </p>
 
 ---
-
-<p align="center">
-Obrigado por visitar meu perfil! ⚔️
-</p>
