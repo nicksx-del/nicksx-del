@@ -32,8 +32,14 @@ Meus jogos são pensados especialmente para jogadores que buscam **desafios inte
 
 ## 🚀 Redes Sociais
 
-[![YouTube](https://img.shields.io/badge/YouTube-nicks_delete-red?logo=youtube&logoColor=white)](https://www.youtube.com/@nicks_delete)  
-[![X (Twitter)](https://img.shields.io/badge/X-nicksx--del-black?logo=x&logoColor=white)](https://twitter.com/nicksx-del)
+<p align="center">
+  <a href="https://www.youtube.com/@nicks_delete">
+    <img src="https://img.shields.io/badge/YouTube-nicks_delete-red?logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nicksx-del">
+    <img src="https://img.shields.io/badge/X-nicksx--del-black?logo=x&logoColor=white" />
+  </a>
+</p>
 
 ---
 
