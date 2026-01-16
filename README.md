@@ -3,7 +3,7 @@
 🚀 Buscando crescer em programação, IA e design de interfaces.  
 
 ### 💻 Tecnologias que estou estudando:
-- C++ | HTML | CSS | JavaScript | TypeScript
+- HTML | CSS | JavaScript | TypeScript| React
 - Git & GitHub  
 
 ### 📊 Metas atuais:
