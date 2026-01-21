@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, eu sou o Nicksx 👋
+  # Olá, eu sou o Nicolas 👋
 
   <h3>Criando soluções e explorando o futuro da tecnologia</h3>
 
