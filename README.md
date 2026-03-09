@@ -23,7 +23,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia em constante evolução. Com **1 ano de estudos intensivos**, mergulhei de cabeça no mundo do desenvolvimento web e da Inteligência Artificial. 
 
-Sou autodidata, movido pela curiosidade de entender como as coisas funcionam e pela vontade de criar soluções reais que facilitem a vida das pessoas. Atualmente, meu foco está em aprimorar minhas habilidades Full Stack e integrar IA em aplicações web modernas.
+Sou movido pela curiosidade de entender como as coisas funcionam e pela vontade de criar soluções reais que facilitem a vida das pessoas. Atualmente, meu foco está em aprimorar minhas habilidades Full Stack e integrar IA em aplicações web modernas.
 
 - 🔭 **Atualmente estudando:** Arquitetura de Software e Integrações com LLMs.
 - 💡 **Interesses:** Desenvolvimento Web, SaaS e Automação com IA.
