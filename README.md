@@ -27,7 +27,7 @@ Sou movido pela curiosidade de entender como as coisas funcionam e pela vontade 
 
 - 🔭 **Atualmente estudando:** Arquitetura de Software e Integrações com LLMs.
 - 💡 **Interesses:** Desenvolvimento Web, SaaS e Automação com IA.
-- 🌱 **Objetivo:** Transformar ideias complexas em interfaces simples e funcionais
+- 🌱 **Objetivo:** Transformar ideias complexas em interfaces simples e funcionais.
 
 ---
 
