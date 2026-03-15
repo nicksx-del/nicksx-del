@@ -2,7 +2,7 @@
   
   # Olá, eu sou o Nicolas 👋
 
-  <h3>Criando soluções e explorando o futuro da tecnologia</h3>
+  <h3>Criando soluções e explorando a tecnologia</h3>
 
   <p align="center">
     <a href="mailto:nicolas9silveira@gmail.com">
