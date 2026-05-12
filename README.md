@@ -1,62 +1,96 @@
-<h1 align="center">Nicolas Silveira</h1>
+<div align="center">
+
+<img width="100%" src="https://i.pinimg.com/originals/8e/2f/2e/8e2f2e5d7dc0f7f6d6c84bdf1b6cbcf0.jpg"/>
+
+# Nicolas Silveira
+
+### `Code. Discipline. Evolution.`
 
 <p align="center">
-  Constante evolução.
+  <a href="mailto:nicolas9silveira@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/n.silveraz_">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
----
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 武 Sobre
+
+Desenvolvedor focado em evolução contínua.
+
+Atualmente estudando:
+- Desenvolvimento Full Stack
+- Arquitetura de Software
+- Inteligência Artificial
+- Integrações com LLMs
+- Performance e sistemas modernos
+
+Interesses:
+- SaaS
+- automações inteligentes
+- interfaces minimalistas
+- desenvolvimento pessoal
+- criação de projetos com identidade forte
+
+> "Disciplina acima da motivação."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ⚔ Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,ts,python,js,react,nextjs,nodejs,supabase,tailwind,git,github,vscode" />
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicksx-del&show_icons=true&bg_color=00000000&title_color=e6e6e6&text_color=8b8b8b&icon_color=4c6ef5&border_color=222&hide_title=false"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicksx-del&layout=compact&bg_color=00000000&title_color=e6e6e6&text_color=8b8b8b&border_color=222"/>
+
+</div>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ☕ Atualmente
 
 ```txt
-"Disciplina antes da motivação."
+Estudando C++
+Construindo projetos pessoais
+Aprendendo inglês
+Aprimorando disciplina e consistência
 ```
 
-## Sobre mim
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- Estudando Sistemas e Desenvolvimento
-- Construindo projetos e aprendendo todos os dias
-- Interesse em IA, jogos, backend e performance
-- Evolução física e mental como prioridade
+## 🧠 Filosofia
 
----
+```txt
+"O homem forte é construído no silêncio."
+```
 
-## Stack
+```txt
+"Ambição sem execução é fantasia."
+```
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode" />
-
-</div>
-
----
-
-## Atualmente
-
-- Aprendendo C++
-- Criando projetos pessoais
-- Estudando inglês
-- Evoluindo consistência e disciplina
-
----
-
-## Estatísticas
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=4444ff&border_color=222"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=transparent&title_color=ffffff&text_color=aaaaaa&border_color=222"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer"/>
 
 </div>
-
----
-
-## Filosofia
-
-> "O homem forte não nasce pronto.
-> Ele é construído no silêncio."
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer"/>
-</p>
