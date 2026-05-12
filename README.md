@@ -1,41 +1,62 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,70:2d1b4e,100:007ACC&height=200&section=header&text=Nicolas%20Silveira&fontSize=42&fontColor=white&fontAlignY=65&animation=fadeIn&desc=Front-end%20Developer%20%7C%20AI%20Builder%20%7C%20Always%20improving&descSize=16&descAlignY=82&descAlign=50" />
+<h1 align="center">Nicolas Silveira</h1>
 
 <p align="center">
-  <a href="mailto:nicolas9silveira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/n.silveraz_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  Constante evolução.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=nicksx-del&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" />
+---
 
-<br/>
+```txt
+"Disciplina antes da motivação."
+```
 
-> *"The fingers remember even what the mind forgets."* — Miyamoto Musashi, Vagabond
+## Sobre mim
+
+- Estudando Sistemas e Desenvolvimento
+- Construindo projetos e aprendendo todos os dias
+- Interesse em IA, jogos, backend e performance
+- Evolução física e mental como prioridade
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode" />
 
 </div>
 
 ---
 
-### ⚔️ About Me
+## Atualmente
 
-I'm Nicolas — a developer who sees coding the same way Musashi saw the sword: **mastery comes from relentless practice, not shortcuts.**
+- Aprendendo C++
+- Criando projetos pessoais
+- Estudando inglês
+- Evoluindo consistência e disciplina
 
-Started from zero, went Full Stack in **1 year of intensive study**, and now I'm combining Front-end craft with AI integrations to build products that actually matter.
+---
 
-```javascript
-const nicolas = {
-  focus:      ["Front-end", "AI / LLMs", "SaaS"],
-  studying:   ["Software Architecture", "LLM integrations"],
-  looking:    "First dev opportunity 🚀",
-  languages:  ["Portuguese 🇧🇷", "English 🇺🇸"],
-  hobbies:    ["Vagabond / Anime 🗡️", "Rock & Metal 🎸", "Games / RPG 🎮"],
-  motto:      "Ship it. Improve it. Repeat."
-};
+## Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=4444ff&border_color=222"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSER&layout=compact&theme=transparent&title_color=ffffff&text_color=aaaaaa&border_color=222"/>
+
+</div>
+
+---
+
+## Filosofia
+
+> "O homem forte não nasce pronto.
+> Ele é construído no silêncio."
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer"/>
+</p>
