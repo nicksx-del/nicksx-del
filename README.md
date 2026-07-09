@@ -1,11 +1,17 @@
 <p align="center">
   <a href="https://github.com/nicksx-del">
-    <img src="./assets/nicksps2.png" alt="nicksx-del github profile banner" />
+    <img src="./assets/nicksps2.png" alt="nicksx-del GitHub profile banner" />
   </a>
 </p>
 
 <p align="center">
-  <strong>welcome github profile</strong>
+  <strong>PRESS START TO ENTER MY GITHUB PROFILE</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/style-PS2%20mood-0b0f16?style=for-the-badge&labelColor=111827" alt="PS2 mood badge" />
+  <img src="https://img.shields.io/badge/focus-interfaces%20%2B%20motion-0b0f16?style=for-the-badge&labelColor=111827" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/location-Brazil-0b0f16?style=for-the-badge&labelColor=111827" alt="Brazil badge" />
 </p>
 
 <p align="center">
@@ -14,14 +20,14 @@
 
 <table width="100%">
   <tr>
-    <td width="34%" valign="top">
+    <td width="36%" valign="top">
       <p align="center">
         <img src="https://github.com/nicksx-del.png?size=240" width="180" alt="nicksx-del avatar" />
       </p>
       <h3 align="center">Nicolas Silveira</h3>
-      <p align="center"><strong>nicksx-del</strong></p>
+      <p align="center"><strong>@nicksx-del</strong></p>
       <p align="center">
-        I build dark, cinematic interfaces for web and mobile, with a focus on clarity, motion, and premium feel.
+        I design and build dark, cinematic interfaces with clarity, motion, and a premium visual feel.
       </p>
       <p align="center">
         <a href="https://github.com/nicksx-del">GitHub</a> |
@@ -29,17 +35,26 @@
         <a href="mailto:nicolas9silveira@gmail.com">Email</a>
       </p>
     </td>
-    <td width="66%" valign="top">
+    <td width="64%" valign="top">
       <p align="center">
         <strong>ABOUT</strong>
       </p>
       <p align="center">
-        Building clean interfaces, mobile experiences, and visual systems with a strong atmosphere and a sharp PS2 mood.
+        Meu GitHub e meu cartao de visita: projetos com identidade, interface limpa e uma atmosfera inspirada no PS2.
       </p>
       <p align="center">
-        <strong>TECH</strong>
+        <strong>MENU</strong>
       </p>
       <p align="center">
+        <a href="#stack">Stack</a> &nbsp;|&nbsp;
+        <a href="#projects">Projects</a> &nbsp;|&nbsp;
+        <a href="#now">Now</a> &nbsp;|&nbsp;
+        <a href="#contact">Contact</a>
+      </p>
+      <p align="center">
+        <strong>STACK</strong>
+      </p>
+      <p align="center" id="stack">
         <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,flutter,androidstudio,figma,git,github" alt="stack" />
       </p>
     </td>
@@ -48,30 +63,53 @@
 
 <table width="100%">
   <tr>
-    <td width="38%" valign="top" align="center">
-      <a href="https://github.com/nicksx-del/App-Consultoria">
-        <img src="./assets/memory-card.png" alt="Memory Card 8MB project link" width="240" />
-      </a>
+    <td width="46%" valign="top" align="center">
+      <p align="center" id="projects">
+        <strong>TOP PROJECT</strong>
+      </p>
       <a href="https://github.com/nicksx-del/App-Consultoria">
         <img src="./assets/consultoriaps2.png" alt="Consultoria Fitto project card" width="280" />
       </a>
       <p align="center">
-        <img src="./assets/top-project.png" alt="top-project chip" width="190" />
+        <strong>Consultoria Fitto</strong>
+      </p>
+      <p align="center">
+        Interface inspirada no PS2, com foco em identidade visual e impacto na primeira impressao.
       </p>
     </td>
-    <td width="62%" valign="middle" align="center">
+    <td width="54%" valign="top">
+      <p align="center" id="now">
+        <strong>NOW PLAYING</strong>
+      </p>
+      <ul>
+        <li>Construindo interfaces com personalidade visual forte.</li>
+        <li>Refinando motion, composicao e hierarquia de conteudo.</li>
+        <li>Transformando ideias em experiencias com cara de produto real.</li>
+      </ul>
+      <p align="center">
+        <strong>WHAT I LIKE TO BUILD</strong>
+      </p>
+      <ul>
+        <li>Landing pages com identidade marcante</li>
+        <li>Apps mobile com fluxo limpo e rapido</li>
+        <li>Design systems consistentes</li>
+        <li>Experiencias com atmosfera, brilho e contraste</li>
+      </ul>
+      <p align="center" id="contact">
+        <strong>CONTACT</strong>
+      </p>
       <p align="center">
         <a href="mailto:nicolas9silveira@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
         </a>
-        <span> | </span>
         <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </p>
-      <p align="center">
-        clean links, quick access, same PS2 mood.
-      </p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  clean links, quick access, same PS2 mood.
+</p>
