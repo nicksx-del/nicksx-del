@@ -21,7 +21,7 @@
       <h3 align="center">Nicolas Silveira</h3>
       <p align="center"><strong>nicksx-del</strong></p>
       <p align="center">
-        Frontend, mobile and premium UI with a dark, cinematic PS2-inspired style.
+        I build dark, cinematic interfaces for web and mobile, with a focus on clarity, motion, and premium feel.
       </p>
       <p align="center">
         <a href="https://github.com/nicksx-del">GitHub</a> |
@@ -31,13 +31,13 @@
     </td>
     <td width="66%" valign="top">
       <p align="center">
-        <strong>About</strong>
+        <strong>ABOUT</strong>
       </p>
       <p align="center">
-        Building clean interfaces, mobile experiences, and visual systems with a strong atmosphere.
+        Building clean interfaces, mobile experiences, and visual systems with a strong atmosphere and a sharp PS2 mood.
       </p>
       <p align="center">
-        <strong>Tech</strong>
+        <strong>TECH</strong>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,flutter,androidstudio,figma,git,github" alt="stack" />
@@ -51,15 +51,15 @@
 
 <table width="100%">
   <tr>
-    <td width="44%" valign="middle" align="center">
+    <td width="38%" valign="top" align="center">
       <a href="https://github.com/nicksx-del/App-Consultoria">
-        <img src="./assets/consultoriaps2.png" alt="Consultoria Fitto project card" width="340" />
+        <img src="./assets/consultoriaps2.png" alt="Consultoria Fitto project card" width="280" />
       </a>
       <p align="center">
-        <strong>top-project</strong>
+        <img src="./assets/top-project.png" alt="top-project chip" width="190" />
       </p>
     </td>
-    <td width="56%" valign="middle">
+    <td width="62%" valign="middle" align="center">
       <p align="center">
         <a href="mailto:nicolas9silveira@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -78,15 +78,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/nicksx-del">
-    <img src="./assets/button-github.png" alt="GitHub button" width="240" />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
-    <img src="./assets/button-linkedin.png" alt="LinkedIn button" width="260" />
-  </a>
-  <a href="mailto:nicolas9silveira@gmail.com">
-    <img src="./assets/button-email.png" alt="Email button" width="240" />
-  </a>
-</p>
