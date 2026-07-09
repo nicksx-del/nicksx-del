@@ -42,9 +42,6 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,flutter,androidstudio,figma,git,github" alt="stack" />
       </p>
-      <p align="center">
-        The project card below is clickable and opens the repository.
-      </p>
     </td>
   </tr>
 </table>
@@ -52,6 +49,9 @@
 <table width="100%">
   <tr>
     <td width="38%" valign="top" align="center">
+      <a href="https://github.com/nicksx-del/App-Consultoria">
+        <img src="./assets/memory-card.png" alt="Memory Card 8MB project link" width="240" />
+      </a>
       <a href="https://github.com/nicksx-del/App-Consultoria">
         <img src="./assets/consultoriaps2.png" alt="Consultoria Fitto project card" width="280" />
       </a>
@@ -68,9 +68,6 @@
         <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
-      </p>
-      <p align="center">
-        <strong>fast contact</strong>
       </p>
       <p align="center">
         clean links, quick access, same PS2 mood.
