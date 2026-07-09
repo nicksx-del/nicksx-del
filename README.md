@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>welcome github profile</strong>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicksx-del&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=b9c0cf&icon_color=8be9fd&bg_color=0b0f1600" alt="GitHub stats" />
 </p>
 
