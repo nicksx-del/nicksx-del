@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/playstation.gif" alt="PlayStation animation" width="320" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STYLE-PS2%20MOOD-0b0f16?style=for-the-badge&labelColor=111827" alt="PS2 mood badge" />
   <img src="https://img.shields.io/badge/FOCUS-INTERFACES%20%2B%20MOTION-0b0f16?style=for-the-badge&labelColor=111827" alt="Focus badge" />
   <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0b0f16?style=for-the-badge&labelColor=111827" alt="Brazil badge" />
