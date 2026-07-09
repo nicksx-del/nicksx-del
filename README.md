@@ -9,13 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/style-PS2%20mood-0b0f16?style=for-the-badge&labelColor=111827" alt="PS2 mood badge" />
-  <img src="https://img.shields.io/badge/focus-interfaces%20%2B%20motion-0b0f16?style=for-the-badge&labelColor=111827" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/location-Brazil-0b0f16?style=for-the-badge&labelColor=111827" alt="Brazil badge" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicksx-del&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=b9c0cf&icon_color=8be9fd&bg_color=0b0f1600" alt="GitHub stats" />
+  <img src="https://img.shields.io/badge/STYLE-PS2%20MOOD-0b0f16?style=for-the-badge&labelColor=111827" alt="PS2 mood badge" />
+  <img src="https://img.shields.io/badge/FOCUS-INTERFACES%20%2B%20MOTION-0b0f16?style=for-the-badge&labelColor=111827" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0b0f16?style=for-the-badge&labelColor=111827" alt="Brazil badge" />
 </p>
 
 <table width="100%">
@@ -26,18 +22,15 @@
       </p>
       <h3 align="center">Nicolas Silveira</h3>
       <p align="center"><strong>@nicksx-del</strong></p>
-      <p align="center">
-        I design and build dark, cinematic interfaces with clarity, motion, and a premium visual feel.
-      </p>
-      <p align="center">
+      <p align="center" id="contact">
         <a href="https://github.com/nicksx-del">
-          <img src="https://img.shields.io/badge/GitHub-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=github&logoColor=ffffff" alt="GitHub" />
+          <img src="https://img.shields.io/badge/GITHUB-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logo=github&logoColor=ffffff" alt="GitHub" />
         </a>
         <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
-          <img src="https://img.shields.io/badge/LinkedIn-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LINKEDIN-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
         </a>
         <a href="mailto:nicolas9silveira@gmail.com">
-          <img src="https://img.shields.io/badge/Email-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=gmail&logoColor=EA4335" alt="Email" />
+          <img src="https://img.shields.io/badge/EMAIL-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logo=gmail&logoColor=EA4335" alt="Email" />
         </a>
       </p>
     </td>
@@ -46,23 +39,23 @@
         <strong>ABOUT</strong>
       </p>
       <p align="center">
-        Meu GitHub e meu cartao de visita: projetos com identidade, interface limpa e uma atmosfera inspirada no PS2.
+        My GitHub is my calling card: identity-driven projects, clean interfaces, and a PS2-inspired atmosphere.
       </p>
       <p align="center">
         <strong>MENU</strong>
       </p>
       <p align="center">
         <a href="#stack">
-          <img src="https://img.shields.io/badge/STACK-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Stack" />
+          <img src="https://img.shields.io/badge/STACK-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Stack" />
         </a>
         <a href="#projects">
-          <img src="https://img.shields.io/badge/PROJECTS-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Projects" />
+          <img src="https://img.shields.io/badge/PROJECTS-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Projects" />
         </a>
         <a href="#now">
-          <img src="https://img.shields.io/badge/NOW-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Now" />
+          <img src="https://img.shields.io/badge/NOW-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Now" />
         </a>
         <a href="#contact">
-          <img src="https://img.shields.io/badge/CONTACT-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Contact" />
+          <img src="https://img.shields.io/badge/CONTACT-10151f?style=flat-square&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Contact" />
         </a>
       </p>
       <p align="center">
@@ -88,7 +81,7 @@
         <strong>Consultoria Fitto</strong>
       </p>
       <p align="center">
-        Interface inspirada no PS2, com foco em identidade visual e impacto na primeira impressao.
+        A PS2-inspired interface focused on visual identity and strong first-impression impact.
       </p>
     </td>
     <td width="54%" valign="top">
@@ -96,34 +89,23 @@
         <strong>NOW PLAYING</strong>
       </p>
       <ul>
-        <li>Construindo interfaces com personalidade visual forte.</li>
-        <li>Refinando motion, composicao e hierarquia de conteudo.</li>
-        <li>Transformando ideias em experiencias com cara de produto real.</li>
+        <li>Building interfaces with a strong visual personality.</li>
+        <li>Refining motion, composition, and content hierarchy.</li>
+        <li>Turning ideas into experiences that feel like real products.</li>
       </ul>
       <p align="center">
         <strong>WHAT I LIKE TO BUILD</strong>
       </p>
       <ul>
-        <li>Landing pages com identidade marcante</li>
-        <li>Apps mobile com fluxo limpo e rapido</li>
-        <li>Design systems consistentes</li>
-        <li>Experiencias com atmosfera, brilho e contraste</li>
+        <li>Landing pages with strong identity</li>
+        <li>Mobile apps with clean, fast flows</li>
+        <li>Consistent design systems</li>
+        <li>Experiences with atmosphere, glow, and contrast</li>
       </ul>
-      <p align="center" id="contact">
-        <strong>CONTACT</strong>
-      </p>
-      <p align="center">
-        <a href="mailto:nicolas9silveira@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=gmail&logoColor=EA4335" alt="Gmail" />
-        </a>
-        <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
-          <img src="https://img.shields.io/badge/LinkedIn-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  clean links, quick access, same PS2 mood.
+  CLEAN LINKS, QUICK ACCESS, SAME PS2 MOOD.
 </p>
