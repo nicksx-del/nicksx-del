@@ -3,6 +3,15 @@
     <img src="./assets/nicksps2.png" alt="nicksx-del github profile banner" />
   </a>
 </p>
+
+<p align="center">
+  <strong>welcome github profile</strong>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicksx-del&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=b9c0cf&icon_color=8be9fd&bg_color=0b0f1600" alt="GitHub stats" />
+</p>
+
 <table width="100%">
   <tr>
     <td width="34%" valign="top">
@@ -40,11 +49,35 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/nicksx-del/App-Consultoria">
-    <img src="./assets/consultoriaps2.png" alt="Consultoria Fitto project card" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="44%" valign="middle" align="center">
+      <a href="https://github.com/nicksx-del/App-Consultoria">
+        <img src="./assets/consultoriaps2.png" alt="Consultoria Fitto project card" width="340" />
+      </a>
+      <p align="center">
+        <strong>top-project</strong>
+      </p>
+    </td>
+    <td width="56%" valign="middle">
+      <p align="center">
+        <a href="mailto:nicolas9silveira@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+        <span> | </span>
+        <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+      <p align="center">
+        <strong>fast contact</strong>
+      </p>
+      <p align="center">
+        clean links, quick access, same PS2 mood.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/nicksx-del">
