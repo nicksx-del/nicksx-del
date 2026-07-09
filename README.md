@@ -30,9 +30,15 @@
         I design and build dark, cinematic interfaces with clarity, motion, and a premium visual feel.
       </p>
       <p align="center">
-        <a href="https://github.com/nicksx-del">GitHub</a> |
-        <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">LinkedIn</a> |
-        <a href="mailto:nicolas9silveira@gmail.com">Email</a>
+        <a href="https://github.com/nicksx-del">
+          <img src="https://img.shields.io/badge/GitHub-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=github&logoColor=ffffff" alt="GitHub" />
+        </a>
+        <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
+          <img src="https://img.shields.io/badge/LinkedIn-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+        </a>
+        <a href="mailto:nicolas9silveira@gmail.com">
+          <img src="https://img.shields.io/badge/Email-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=gmail&logoColor=EA4335" alt="Email" />
+        </a>
       </p>
     </td>
     <td width="64%" valign="top">
@@ -46,10 +52,18 @@
         <strong>MENU</strong>
       </p>
       <p align="center">
-        <a href="#stack">Stack</a> &nbsp;|&nbsp;
-        <a href="#projects">Projects</a> &nbsp;|&nbsp;
-        <a href="#now">Now</a> &nbsp;|&nbsp;
-        <a href="#contact">Contact</a>
+        <a href="#stack">
+          <img src="https://img.shields.io/badge/STACK-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Stack" />
+        </a>
+        <a href="#projects">
+          <img src="https://img.shields.io/badge/PROJECTS-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Projects" />
+        </a>
+        <a href="#now">
+          <img src="https://img.shields.io/badge/NOW-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Now" />
+        </a>
+        <a href="#contact">
+          <img src="https://img.shields.io/badge/CONTACT-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logoColor=8be9fd" alt="Contact" />
+        </a>
       </p>
       <p align="center">
         <strong>STACK</strong>
@@ -100,10 +114,10 @@
       </p>
       <p align="center">
         <a href="mailto:nicolas9silveira@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+          <img src="https://img.shields.io/badge/Gmail-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=gmail&logoColor=EA4335" alt="Gmail" />
         </a>
         <a href="https://www.linkedin.com/in/nicolas-silveira-69ba42397/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-10151f?style=for-the-badge&labelColor=0b0f16&color=1f2937&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
         </a>
       </p>
     </td>
